@@ -4,7 +4,7 @@
 These files are in support of the Data Science Talks series at the Treasury Board of Canada Secretariat. Each folder corresponds to a talk, and contains corresponding notebooks, slides and code. Issues and Pull Requests welcome!
 
 ## Schedule
-* **[Data Cleaning](data_cleaning/)**: Monday, August 26<sup>th</sup>
+* **[Data Cleaning](data_cleaning/)**: Monday, August 26<sup>th</sup> 2019
   - Data is messy! Data cleaning is an important step in any data analysis or machine learning project. We will go over various problems you will encounter with real data and how to deal with them. Examples will be provided in R and Python but the main emphasis will be on the concepts.
   - Room 2025 at 90 Elgin St., 2:30 - 3:30 PM 
 
