@@ -16,7 +16,6 @@ These files are in support of the Data Science Talks series at the Treasury Boar
 
 
 ### Past Presentations
-
 * **[AI Fairness](fairness/)**: Monday September 30<sup>th</sup> 2019
   - Join us for an introduction and discussion into fairness in AI and analytics
   - 90 Elgin 2023, 11:00 AM - 12:00 PM
@@ -28,9 +27,6 @@ These files are in support of the Data Science Talks series at the Treasury Boar
 Ces fichiers sont en connexion à la série de présentations sur la science des données au Secrétariat du Conseil du Trésor du Canada. Chaque dossier correspond à une présentation et contient les blocs-notes, diapositive et le code correspondants. Questions et demandes d'addition de code sont les bienvenues !
 
 ## Horaire
-* **Équité et l'IA**: Lundi 30 septembre 2019
-  - Joignez-vous à nous pour une introduction et une discussion sur l'équité en matière d'IA et d'analyse.
-  - 90 Elgin 2023, 11 h 00 - 12 h 00
 * **Machine virtuelle de science des données Protégé B**: Vendredi 25 octobre 2019
   - Nous sommes ravis de vous présenter les mises à jour et les outils de la machine virtuelle de science des données Protégé B
   - 219 rue Laurier 5002, 10 h 00 - 12 h 00
@@ -42,6 +38,9 @@ Ces fichiers sont en connexion à la série de présentations sur la science des
   - 90 Elgin 2024, 11 h 00 - 12 h 00
 
 ### Présentations précédentes
+* **[Équité et l'IA](fairness/)**: Lundi 30 septembre 2019
+  - Joignez-vous à nous pour une introduction et une discussion sur l'équité en matière d'IA et d'analyse.
+  - 90 Elgin 2023, 11 h 00 - 12 h 00
 * **[Nettoyage de données](data_cleaning/)**: Lundi 29 août 2019
   - Les données sont compliquées! Le nettoyage des données est une étape très importante dans n’importe quel projet d’analyse de données ou de l’apprentissage automatique. Nous discuterons plusieurs types de problèmes que vous rencontrerez avec les données réelles et comment les traiter. Exemples en R et Python serons disponibles mais l’accent sera sur les concepts.
   - Salle 2025 au 90 rue Elgin, 2:30 - 3:30 PM
