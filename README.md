@@ -17,7 +17,7 @@ These files are in support of the Data Science Talks series at the Treasury Boar
 
 ### Past Presentations
 
-* **[AI Fairness[(fairness)**: Monday September 30<sup>th</sup> 2019
+* **[AI Fairness](fairness/)**: Monday September 30<sup>th</sup> 2019
   - Join us for an introduction and discussion into fairness in AI and analytics
   - 90 Elgin 2023, 11:00 AM - 12:00 PM
 * **[Data Cleaning](data_cleaning/)**: Monday, August 26<sup>th</sup> 2019
