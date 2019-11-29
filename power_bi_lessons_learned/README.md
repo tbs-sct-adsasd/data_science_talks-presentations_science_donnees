@@ -5,7 +5,7 @@ Last year, the Analytics and Data Science team in Treasury Board of Canada Secre
 
 ## Slides
 
-* [PSES Power BI Dashboard - Lessons Learned](PSES_lessons_learned.pptx)
+* [PSES Power BI Dashboard - Lessons Learned](https://github.com/tbs-sct-adsasd/data_science_talks-presentations_science_donnees/blob/master/power_bi_lessons_learned/PSES_lessons_learned.pptx?raw=true)
 
 
 # Data Cleaning &mdash ; Data Science @ TBS Talks
@@ -15,4 +15,4 @@ L'an dernier, l'équipe d'analyse et de science des données de la DGGIT du Secr
 
 ## Diapositives
 
-* [Tableau de bord SAFF Power BI - Leçons apprises](PSES_lessons_learned.pptx)
+* [Tableau de bord SAFF Power BI - Leçons apprises](https://github.com/tbs-sct-adsasd/data_science_talks-presentations_science_donnees/blob/master/power_bi_lessons_learned/PSES_lessons_learned.pptx?raw=true)
