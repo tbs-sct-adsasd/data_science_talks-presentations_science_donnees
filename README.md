@@ -4,15 +4,15 @@
 These files are in support of the Data Science Talks series at the Treasury Board of Canada Secretariat. Each folder corresponds to a talk, and contains corresponding notebooks, slides and code. Issues and Pull Requests welcome!
 
 ## Schedule
-* **PSES PowerBI - Lessons Learned**: Tuesday November 26<sup>th</sup> 2019
-  - Last year, our team produced a PowerBI report on PSES data. We will be presenting lessons learned and tips to consider when developing a report for production
-  - 219 Laurier 5002, 10:00 AM - 11:00 AM
 * **Survey Analysis**: Monday December 16<sup>th</sup> 2019
   - Join us for an introduction to statistical survey analysis
   - 90 Elgin 2024, 11:00 AM - 12:00 PM
 
 
 ### Past Presentations
+* **[PSES PowerBI - Lessons Learned](power_bi_lessons_learned/)**: Tuesday November 26<sup>th</sup> 2019
+  - Last year, our team produced a PowerBI report on PSES data. We will be presenting lessons learned and tips to consider when developing a report for production
+  - 219 Laurier 5002, 10:00 AM - 11:00 AM
 * **Protected B Data Science Virtual Machine**: Friday October 25<sup>th</sup> 2019
   - We are excited to present updates and tools on the Protected B Data Science Virtual Machine
   - 219 Laurier 5002, 10:00 AM - 11:00 AM
@@ -27,14 +27,14 @@ These files are in support of the Data Science Talks series at the Treasury Boar
 Ces fichiers sont en connexion à la série de présentations sur la science des données au Secrétariat du Conseil du Trésor du Canada. Chaque dossier correspond à une présentation et contient les blocs-notes, diapositive et le code correspondants. Questions et demandes d'addition de code sont les bienvenues !
 
 ## Horaire
-* **PSES Power BI - Leçons apprises**: Mardi 26 novembre 2019
-  - L'an dernier, notre équipe a produit un rapport Power BI sur les données du SAFF. Nous présenterons les leçons apprises et les conseils à prendre en considération lors de l'élaboration d'un rapport mis en production.
-  - 219 rue Laurier 5002, 10 h 00 - 11 h 00
 * **Analyse de données de sondage** : Lundi 16 décembre 2019
   - Joignez-vous à nous pour une introduction à l'analyse statistique de données provenant de sondages
   - 90 Elgin 2024, 11 h 00 - 12 h 00
 
 ### Présentations précédentes
+* **[Power BI SAFF - Leçons apprises](power_bi_lessons_learned/)**: Mardi 26 novembre 2019
+  - L'an dernier, notre équipe a produit un rapport Power BI sur les données du SAFF. Nous présenterons les leçons apprises et les conseils à prendre en considération lors de l'élaboration d'un rapport mis en production.
+  - 219 rue Laurier 5002, 10 h 00 - 11 h 00
 * **Machine virtuelle de science des données Protégé B**: Vendredi 25 octobre 2019
   - Nous sommes ravis de vous présenter les mises à jour et les outils de la machine virtuelle de science des données Protégé B
   - 219 rue Laurier 5002, 10 h 00 - 12 h 00
