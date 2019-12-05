@@ -27,7 +27,7 @@ These files are in support of the Data Science Talks series at the Treasury Boar
 Ces fichiers sont en connexion à la série de présentations sur la science des données au Secrétariat du Conseil du Trésor du Canada. Chaque dossier correspond à une présentation et contient les blocs-notes, diapositive et le code correspondants. Questions et demandes d'addition de code sont les bienvenues !
 
 ## Horaire
-* **Analyse de données de sondage** : Lundi 16 décembre 2019
+* **Analyse de sondage** : Lundi 16 décembre 2019
   - Joignez-vous à nous pour une introduction à l'analyse statistique de données provenant de sondages
   - 90 Elgin 2024, 11 h 00 - 12 h 00
 
