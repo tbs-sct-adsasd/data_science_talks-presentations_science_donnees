@@ -5,7 +5,7 @@ These files are in support of the Data Science Talks series at the Treasury Boar
 
 ## Schedule
 
-* **Using Git Version Control**: Friday February 21<sup>st</sup>, 2020
+* **[Git and Azure DevOps for Data Science](git_az_devops/)**: Friday February 21<sup>st</sup>, 2020
   - Join us for an introduction to the git version control tool
   - 219 Laurier 5002, 1:00 PM - 2:00 PM
 
@@ -36,6 +36,9 @@ Ces fichiers sont en connexion à la série de présentations sur la science des
 
 ## Horaire
 
+* **[Git et Azure DevOps pour la science des données](git_az_devops/)**: Vendredi le 21 février, 2020
+  - Joignez-vous à nous pour discuter de Git et Azure DevOps. Nous ferons l’introduction de quelques techniques de base de ces outils.
+  - 219 Laurier 5002, 1:00 PM - 2:00 PM
 
 ### Présentations précédentes
 
